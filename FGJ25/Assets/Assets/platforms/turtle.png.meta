@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: eb6fc90fe5433514ca0f3c1c1f8478ac
+guid: cb4c4f97974ee4941bc046c8c67312db
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -429890163646538327
-    second: turtle_0
+      213: -9156857272990431607
+    second: turtle 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -50,9 +50,9 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 9
-  spritePivot: {x: 0.4363781, y: 0.4182004}
+  spritePivot: {x: 0.42956147, y: 0.4182004}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 60, y: 219, z: 197, w: 381}
+  spriteBorder: {x: 52, y: 222, z: 191, w: 378}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: turtle_0
+      name: turtle 1_0
       rect:
         serializedVersion: 2
         x: 45
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9add96f7c29b80af0800000000000000
-      internalID: -429890163646538327
+      spriteID: 986047843de4ce080800000000000000
+      internalID: -9156857272990431607
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      turtle_0: -429890163646538327
+      turtle 1_0: -9156857272990431607
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
