@@ -24,6 +24,7 @@ public class FriendController : MonoBehaviour
         if (Time.time > i)
         {
             i += 2;
+            LaunchOffset = transform;
             Instantiate(BubblePrefab, LaunchOffset);
         }
     }
