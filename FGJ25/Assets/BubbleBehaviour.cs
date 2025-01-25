@@ -6,7 +6,7 @@ using UnityEngine;
 public class BubbleBehaviour : MonoBehaviour
 {
 
-	public float speed = 2f;
+	public float speed = 0.3f;
 
 	// Update is called once per frame
 	void Update()
