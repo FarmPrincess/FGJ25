@@ -16,6 +16,7 @@ public class PlayerController : MonoBehaviour
     private bool isGrounded;
 
     public FriendController testFriend;
+
     
     private void Awake()
     {
@@ -66,6 +67,7 @@ public class PlayerController : MonoBehaviour
         {
             isGrounded = true;
         }
+
     }
     private void OnCollisionExit2D(Collision2D collision)
     {

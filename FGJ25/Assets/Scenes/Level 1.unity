@@ -1032,6 +1032,7 @@ GameObject:
   - component: {fileID: 1582784733}
   - component: {fileID: 1582784732}
   - component: {fileID: 1582784734}
+  - component: {fileID: 1582784735}
   m_Layer: 0
   m_Name: floor
   m_TagString: Ground
@@ -1155,6 +1156,19 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1582784735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1582784730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd0f4b70d5a693479987e8e6894b05c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bubble: {fileID: 1366691563946926550, guid: 2ac830caaac6cba40affc94fef74a56a, type: 3}
 --- !u!1 &1681676055
 GameObject:
   m_ObjectHideFlags: 0
@@ -1166,6 +1180,7 @@ GameObject:
   - component: {fileID: 1681676058}
   - component: {fileID: 1681676057}
   - component: {fileID: 1681676059}
+  - component: {fileID: 1681676060}
   m_Layer: 0
   m_Name: Fish
   m_TagString: Ground
@@ -1280,6 +1295,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 7.3, y: 2.23}
   m_Direction: 1
+--- !u!114 &1681676060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1681676055}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd0f4b70d5a693479987e8e6894b05c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bubble: {fileID: 1366691563946926550, guid: 57d7a2ebc8098d142af38dfa63231690, type: 3}
 --- !u!1 &1693418251
 GameObject:
   m_ObjectHideFlags: 0

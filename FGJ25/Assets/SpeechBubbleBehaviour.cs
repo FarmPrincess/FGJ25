@@ -2,24 +2,25 @@ using UnityEngine;
 
 public class SpeechBubbleBehaviour : MonoBehaviour
 {
-    // a few bubble ideas
-    public SpeechBubbleBehaviour Tutorial;
-    public SpeechBubbleBehaviour Turtle;
-    public SpeechBubbleBehaviour Jelly;
-
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        // after 3 sec show tutorial bubble
-    }
+    public GameObject Bubble;
+    private bool Talks = false;
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.name == "Player" && !Talks)
+        {
+            Talks = true;
+            Instantiate(Bubble);
+        }
+
+    }
     // add void collision shit
     // when player jumps on top of fish, they say something
 
@@ -28,5 +29,5 @@ public class SpeechBubbleBehaviour : MonoBehaviour
 
     // every fish has their own speechbubble
     // every bubble has their own static position and sprite
-    
+
 }
