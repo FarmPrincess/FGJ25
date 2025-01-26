@@ -29,7 +29,6 @@ public class PlayerController : MonoBehaviour
 
         controls.Player.StopFriend.started += _ => testFriend.Stop();
 
-
     }
 
     private void OnEnable() => controls.Enable();
