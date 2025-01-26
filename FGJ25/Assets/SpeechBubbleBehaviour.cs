@@ -13,6 +13,7 @@ public class SpeechBubbleBehaviour : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         if (Time.time > creation +2 && !Text && Talks)
         {
             Text = true;
