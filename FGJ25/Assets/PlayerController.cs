@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 
+
 public class PlayerController : MonoBehaviour
 {
     public float movementSpeed;
@@ -13,6 +14,8 @@ public class PlayerController : MonoBehaviour
 
     private float movement;
     private bool isGrounded;
+
+    public FriendController testFriend;
     
     private void Awake()
     {
@@ -23,6 +26,10 @@ public class PlayerController : MonoBehaviour
         controls.Player.Movement.canceled += _ => movement = 0;
 
         controls.Player.Jump.started += _ => Jump();
+
+        controls.Player.StopFriend.started += _ => testFriend.Stop();
+
+
     }
 
     private void OnEnable() => controls.Enable();

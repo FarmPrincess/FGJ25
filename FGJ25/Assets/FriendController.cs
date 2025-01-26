@@ -8,23 +8,29 @@ public class FriendController : MonoBehaviour
 
     public BubbleBehaviour BubblePrefab;
     public Transform LaunchOffset;
+    bool move;
     int i;
 
     void Start()
     {
         _player = GameObject.FindWithTag("Player").transform;
+        move = true;
+
     }
 
     void Update()
     {
-        var step = 3f * Time.deltaTime;
-        var pos = 2;
-        if (_player.position.x > 0)
+        if (move)
         {
-            pos = -2;
+            var step = 3f * Time.deltaTime;
+            var pos = 2;
+            if (_player.position.x > 0)
+            {
+                pos = -2;
+            }
+            var target = new Vector3(_player.position.x + pos, _player.position.y + 1, _player.position.z);
+            transform.position = Vector3.MoveTowards(transform.position, target, step);
         }
-        var target = new Vector3(_player.position.x + pos, _player.position.y + 1, _player.position.z);
-        transform.position = Vector3.MoveTowards(transform.position, target, step);
 
         if (Time.time > i)
         {
@@ -33,4 +39,18 @@ public class FriendController : MonoBehaviour
             Instantiate(BubblePrefab, LaunchOffset);
         }
     }
+
+    public void Stop ()
+    {
+        if (move)
+        {
+            move = false;
+        } else
+        {
+            move = true;
+
+        }
+
+    }
+
 }
