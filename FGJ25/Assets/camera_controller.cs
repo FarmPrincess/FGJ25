@@ -18,7 +18,7 @@ public class camera_controller : MonoBehaviour
         //define start and end of level. 
         //This will detach the camera from the player until it enters the range again
 
-        if (player.transform.position.y > 0f && player.transform.position.y < 10f)
+        if (player.transform.position.y > 0f && player.transform.position.y < 50f)
         {
             transform.position = new Vector3(0f, player.transform.position.y, - 10f);
         }

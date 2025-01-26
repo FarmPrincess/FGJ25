@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1260315659739028540}
   m_Layer: 0
   m_Name: bubble
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -101,7 +101,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b7bcccb04999c1439b49bbacf480cf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 3
 --- !u!58 &1260315659739028540
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -137,4 +137,4 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.5263158
+  m_Radius: 0.4
