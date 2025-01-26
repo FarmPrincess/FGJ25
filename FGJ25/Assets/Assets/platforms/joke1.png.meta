@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: cea08241606b4704d9de9f35d51aabd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1976957078854878816
+    second: joke1_0
+  - first:
+      213: -4038235636565517685
+    second: joke1_1
+  - first:
+      213: 7351543014643444468
+    second: joke1_2
+  - first:
+      213: 3673279073820946579
+    second: joke1_3
+  - first:
+      213: -1630784595899788345
+    second: joke1_4
+  - first:
+      213: -4165205379438788986
+    second: joke1_5
+  - first:
+      213: 1388670032583010501
+    second: joke1_6
+  - first:
+      213: -3097735715355550455
+    second: joke1_7
+  - first:
+      213: -7462442922616033251
+    second: joke1_8
+  - first:
+      213: -8262591294428387988
+    second: joke1_9
+  - first:
+      213: -7315058455181565707
+    second: joke1_10
+  - first:
+      213: -8343614409926359503
+    second: joke1_11
+  - first:
+      213: -8740589760931844976
+    second: joke1_12
+  - first:
+      213: 6093926607049953648
+    second: joke1_13
+  - first:
+      213: 3750387386439130075
+    second: joke1_14
+  - first:
+      213: 2215678536417505486
+    second: joke1_15
+  - first:
+      213: -5705864082445646054
+    second: joke1_16
+  - first:
+      213: -2110833819649094779
+    second: joke1_17
+  - first:
+      213: 7338046920476470897
+    second: joke1_18
+  - first:
+      213: -1281002736150147959
+    second: joke1_19
+  - first:
+      213: -7525654007006337930
+    second: joke1_20
+  - first:
+      213: -4733787888850357106
+    second: joke1_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.54089975, y: 0.6113383}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 180, y: 497, z: 100, w: 274}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: joke1_0
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 645
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a939aad2007094e0800000000000000
+      internalID: -1976957078854878816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 647
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a5033851e45f7c0800000000000000
+      internalID: -4038235636565517685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 641
+        width: 95
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faa3d2fb6de50660800000000000000
+      internalID: 7351543014643444468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 638
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39039f31bdb1af230800000000000000
+      internalID: 3673279073820946579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_4
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 631
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3d630ec0a4e59e0800000000000000
+      internalID: -1630784595899788345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_5
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 698
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e310e86c73236c0800000000000000
+      internalID: -4165205379438788986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_6
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 683
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c82752890c854310800000000000000
+      internalID: 1388670032583010501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 605
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d113687c1a205d0800000000000000
+      internalID: -3097735715355550455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_8
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 627
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10f7d813b3107890800000000000000
+      internalID: -7462442922616033251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_9
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 618
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c656c5baef0655d80800000000000000
+      internalID: -8262591294428387988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 614
+        width: 148
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f06fa38711bb7a90800000000000000
+      internalID: -7315058455181565707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 544
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136428986e6853c80800000000000000
+      internalID: -8343614409926359503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 537
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cad3c0cef23b680800000000000000
+      internalID: -8740589760931844976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 520
+        width: 190
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071938c46f9f19450800000000000000
+      internalID: 6093926607049953648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_14
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 587
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb5fc2257d0c0430800000000000000
+      internalID: 3750387386439130075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 595
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec07f93c3ebafbe10800000000000000
+      internalID: 2215678536417505486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_16
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 499
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17ca2519d2b0d0b0800000000000000
+      internalID: -5705864082445646054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_17
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 505
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b4fef13dfc4b2e0800000000000000
+      internalID: -2110833819649094779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_18
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 499
+        width: 121
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e2628abcaf5d560800000000000000
+      internalID: 7338046920476470897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_19
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 548
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c877b6cc6f83ee0800000000000000
+      internalID: -1281002736150147959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_20
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 521
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67464e1ad818f8790800000000000000
+      internalID: -7525654007006337930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joke1_21
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 500
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84370beef43e4eb0800000000000000
+      internalID: -4733787888850357106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      joke1_0: -1976957078854878816
+      joke1_1: -4038235636565517685
+      joke1_10: -7315058455181565707
+      joke1_11: -8343614409926359503
+      joke1_12: -8740589760931844976
+      joke1_13: 6093926607049953648
+      joke1_14: 3750387386439130075
+      joke1_15: 2215678536417505486
+      joke1_16: -5705864082445646054
+      joke1_17: -2110833819649094779
+      joke1_18: 7338046920476470897
+      joke1_19: -1281002736150147959
+      joke1_2: 7351543014643444468
+      joke1_20: -7525654007006337930
+      joke1_21: -4733787888850357106
+      joke1_3: 3673279073820946579
+      joke1_4: -1630784595899788345
+      joke1_5: -4165205379438788986
+      joke1_6: 1388670032583010501
+      joke1_7: -3097735715355550455
+      joke1_8: -7462442922616033251
+      joke1_9: -8262591294428387988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
