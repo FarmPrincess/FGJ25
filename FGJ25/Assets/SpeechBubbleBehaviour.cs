@@ -3,12 +3,21 @@ using UnityEngine;
 public class SpeechBubbleBehaviour : MonoBehaviour
 {
     public GameObject Bubble;
+    public GameObject Bubble2;
+
+
     private bool Talks = false;
+    private bool Text = false;
+    private float creation;
 
     // Update is called once per frame
     void Update()
     {
-
+        if (Time.time > creation +2 && !Text && Talks)
+        {
+            Text = true;
+            Instantiate(Bubble2);
+        }
     }
 
 
@@ -18,6 +27,7 @@ public class SpeechBubbleBehaviour : MonoBehaviour
         {
             Talks = true;
             Instantiate(Bubble);
+            creation = Time.time;
         }
 
     }

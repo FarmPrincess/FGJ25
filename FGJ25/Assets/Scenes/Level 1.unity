@@ -1169,6 +1169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Bubble: {fileID: 1366691563946926550, guid: 2ac830caaac6cba40affc94fef74a56a, type: 3}
+  Bubble2: {fileID: 1366691563946926550, guid: 3fcb80c7b603b894c9bec69ce74b9feb, type: 3}
 --- !u!1 &1681676055
 GameObject:
   m_ObjectHideFlags: 0
@@ -1308,6 +1309,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Bubble: {fileID: 1366691563946926550, guid: 57d7a2ebc8098d142af38dfa63231690, type: 3}
+  Bubble2: {fileID: 1366691563946926550, guid: e38bb7fe5adfeb141a263a346bf46e09, type: 3}
 --- !u!1 &1693418251
 GameObject:
   m_ObjectHideFlags: 0
